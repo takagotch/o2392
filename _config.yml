@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
-url: /page86/ #Your url here
-baseurl: /project
+url: https://takagotch.github.io/ #Your url here
+baseurl: /page86
 
 # variables
 name: TKVTV
